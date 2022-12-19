@@ -9,8 +9,358 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "quartov4",
+    "title": "newMyProject",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "devops/devops-lab-k8sdigitalocean.html",
+    "href": "devops/devops-lab-k8sdigitalocean.html",
+    "title": "Lab 5: k8s on Digital Ocean",
+    "section": "",
+    "text": "About this site: to-do\nhttps://sites.google.com/view/devopscifo/labs/5-k8s-docean"
+  },
+  {
+    "objectID": "devops/devops-lab-springbooksintro.html",
+    "href": "devops/devops-lab-springbooksintro.html",
+    "title": "Lab 2: Spring Boot Intro",
+    "section": "",
+    "text": "About this site: do-do\nhttps://sites.google.com/view/devopscifo/labs/2-springb-books-intro"
+  },
+  {
+    "objectID": "devops/devops-lab-chatapp.html",
+    "href": "devops/devops-lab-chatapp.html",
+    "title": "Lab 1: chat App",
+    "section": "",
+    "text": "About this site: to-do\nhttps://sites.google.com/view/devopscifo/labs/1-chat-app\nhttps://sites.google.com/view/devopscifo/labs/1-chat-app/aws-chat-back https://sites.google.com/view/devopscifo/labs/1-chat-app/aws-chat-back/api-gateway-chat https://sites.google.com/view/devopscifo/labs/1-chat-app/aws-chat-back/dynamodb\nhttps://sites.google.com/view/devopscifo/labs/1-chat-app/react-chat-front https://sites.google.com/view/devopscifo/labs/1-chat-app/react-chat-front/react-chat-heroku https://sites.google.com/view/devopscifo/labs/1-chat-app/react-chat-front/react-chat-amplify"
+  },
+  {
+    "objectID": "devops/devops-lab-springbooksdocker.html",
+    "href": "devops/devops-lab-springbooksdocker.html",
+    "title": "Lab 4: Spring Boot and Docker",
+    "section": "",
+    "text": "About this site: to-do\nhttps://sites.google.com/view/devopscifo/labs/3-springb-books-s3 https://sites.google.com/view/devopscifo/labs/4-springb-books-docker/test3_build20_error https://sites.google.com/view/devopscifo/labs/4-springb-books-docker/test3_build23"
+  },
+  {
+    "objectID": "devops/devops-lab-springbookss3.html",
+    "href": "devops/devops-lab-springbookss3.html",
+    "title": "Lab 3: Spring Boot and AWS S3",
+    "section": "",
+    "text": "About this site: to-do\nhttps://sites.google.com/view/devopscifo/labs/3-springb-books-s3"
+  },
+  {
+    "objectID": "reactjs/rjslab2.html",
+    "href": "reactjs/rjslab2.html",
+    "title": "React JS",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "reactjs/rjslab5.html",
+    "href": "reactjs/rjslab5.html",
+    "title": "React JS",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "reactjs/rjslab4.html",
+    "href": "reactjs/rjslab4.html",
+    "title": "React JS",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "reactjs/rjslab1.html",
+    "href": "reactjs/rjslab1.html",
+    "title": "React JS",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "reactjs/rjslab3.html",
+    "href": "reactjs/rjslab3.html",
+    "title": "React JS",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "javase/selab5.html",
+    "href": "javase/selab5.html",
+    "title": "Lab 5: subject",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "javase/selab1-1.html",
+    "href": "javase/selab1-1.html",
+    "title": "Lab#SE01-1: Maven/Gradle Person and Account",
+    "section": "",
+    "text": "Create a Maven/Gradle Java SE Project with three classes and Junit to test objects and operations.\n\n\n\n\n\n\nContext Goal Tasks Optional\n\n\n\n\n\n\nIn order to complete this project, you will need to have a basic understanding of the Java programming language, as well as some familiarity with Maven or Gradle for managing dependencies and building the project.\n\n\nOverall, this project will provide an opportunity for you to learn and apply the basics of Java programming, as well as gain experience with Maven or Gradle, JUnit, user input via the console and some discussion about composition and how classes work.\n\n\nAdditionally, you will need to have in mind that this project would center around a banking point of view.\n\n\nBy completing this project, you will have a starting foundation in these technologies and be able to build more complex and sophisticated Java applications in the future. You may go to Lab 2 (go Lab#SE01-2)\n\n\n\n\n\n\nThe goal of this project is to create three classes in Java (Person, Account and Manager) that implement different algorithms or data structures, and to test them using JUnit.  These classes could include, for example, creating new objects, a data structure for storing and manipulating data (List), or a utility class for performing common operations (static).\n\n\n\n\n\n\nThe tasks involved in this project include: \n\n\nDecide where your project will weight: Person or Account.\n\n\nCreating a new Maven or Gradle project and setting up the project structure.\n\n\nModifying the project’s pom.xml or build.gradle file to import the necessary dependencies, including JUnit for testing.\n\n\nImplementing the three required classes in Java, using appropriate algorithms and data structures.\n\n\nImplementing as well two basic pattern-designs: singleton and composition.\n\n\nWriting JUnit tests to verify that the classes work as expected.\n\n\n\nYou may attach the JUnit Test HTML results to documentation.\n\n\n\n\n\n\n\nAs an optional task, you could also consider allowing the user to input data via the console, rather than using hard-coded test data in your JUnit tests.  This would allow you to test the classes with a variety of different input data, and to interact with the classes in a more dynamic way.\n\n\nAfter mplementing two basic pattern-designs: singleton, composition your may think about factory."
+  },
+  {
+    "objectID": "javase/selab1-1.html#solving-discussion",
+    "href": "javase/selab1-1.html#solving-discussion",
+    "title": "Lab#SE01-1: Maven/Gradle Person and Account",
+    "section": "Solving discussion",
+    "text": "Solving discussion\n\nBase Classes\nHere, the Person class represents a person with a name, address and others. In the same way, Account class is a bank account. The AccountManager class contains static methods to perform withdrawal, transfer, and change pin operations on a Person and Account object.\npublic class Person {\n  private String name;\n  private String address;\n  // Other properties for a Person...\n\n  public Person(String name, String address) {\n    this.name = name;\n    this.address = address;\n  }\n\n  // Getters and setters for Person properties...\n}\n\n\npublic class Account {\n  private String accountNumber;\n  private String pin;\n  private double balance;\n  // Other properties for an Account...\n\n  public Account(String accountNumber, String pin, double balance) {\n    this.accountNumber = accountNumber;\n    this.pin = pin;\n    this.balance = balance;\n  }\n\n  // Getters and setters for Account properties...\n}\n\npublic class AccountManager {\n    public static boolean withdrawal(Person person, double amount) {\n        if (amount > 0 && amount <= person.getBalance()) {\n            person.setBalance(person.getBalance() - amount);\n            return true;\n        }\n        return false;\n    }\n\n    public static boolean transfer(Person sender, Person receiver, double amount) {\n        if (amount > 0 && amount <= sender.getBalance()) {\n            sender.setBalance(sender.getBalance() - amount);\n            receiver.setBalance(receiver.getBalance() + amount);\n            return true;\n        }\n        return false;\n    }\n\n    public static boolean changePin(Person person, String oldPin, String newPin) {\n        if (person.getPin().equals(oldPin)) {\n            person.setPin(newPin);\n            return true;\n        }\n        return false;\n    }\n}\n\n\nPerson has Account\npublic class Person {\n  private String name;\n  private String surname;\n  private int age;\n  private Account account;\n\n  public Person(String name, String surname, int age, Account account) {\n    this.name = name;\n    this.surname = surname;\n    this.age = age;\n    this.account = account;\n  }\n\n  public Account getAccount() {\n    return this.account;\n  }\n\n  public void setAccount(Account account) {\n    this.account = account;\n  }\n   // Getters and setters for Account properties...\n}\n\n\n\n\n\nclassDiagram\n\nclass Person {\n  -name: String\n  -surname: String\n  -age: int\n  -account: Account\n}\n\nclass Account {\n  -accountNumber: String\n  -pin: int\n  -balance: double\n}\n\nPerson *-- Account\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsequenceDiagram\n\nparticipant AccountManager as AccountManager\nparticipant Account as Account\nparticipant Person as Person\n\nAccountManager->>Person: transfer(amount, sender, receiver)\nPerson->>Account: updateBalance(-amount, sender)\nPerson->>Account: updateBalance(-amount, receiver)\nAccount-->>Person: transferDone(receipt)\nPerson-->>AccountManager: transferDone(receipt)\n\n\n\n\n\n\n\n\n\n\n\n\nApproach #1: Singleton\nTo use the Singleton design pattern with a Person and Account class, you could create a singleton AccountManager class that manages the creation and operations of the Person and Account objects.\nThe AccountManager class would have a private constructor, to prevent multiple instances from being created, and a static getInstance method that returns the singleton instance of the class.\nThe AccountManager class would then have methods for performing various operations on the Person and Account objects, such as transferring money between accounts, withdrawing money from an account, or changing the PIN for an account.\nThese methods would be implemented using the Person and Account classes, and would be accessible to other classes through the singleton AccountManager instance.\nFor example, you could define the AccountManager, Person, and Account classes as follows:\npublic class AccountManager {\n  private static AccountManager instance;\n  private Person person;\n  private Account account;\n\n  private AccountManager() {\n    // Private constructor to prevent multiple instances\n  }\n\n  public static AccountManager getInstance() {\n    if (instance == null) {\n      instance = new AccountManager();\n    }\n    return instance;\n  }\n\n  public void transfer(Account from, Account to, double amount) {\n    // Transfer money from one account to another\n  }\n\n  public void withdraw(Account account, double amount) {\n    // Withdraw money from an account\n  }\n\n  public void changePin(Account account, String newPin) {\n    // Change the PIN for an account\n  }\n\n  // Other methods for managing Person and Account objects...\n}\nTo use the AccountManager class, other classes would simply need to call the getInstance method to obtain the singleton instance of the class, and then use the instance’s methods to perform operations on the Person and Account objects. For example:\n// Create a new Person and Account\n// be careful: where will these four Person objects go? \nAccountManager manager = AccountManager.getInstance();\nmanager.person = new Person(\"John Doe\", \"123 Main St.\");\nmanager.person = new Person(\"Carla Jameson\", \"323 Main St.\");\nmanager.person = new Person(\"Rafael Martin\", \"3 Glorious St.\");\nmanager.person = new Person(\"Pau Vila\", \"63 Sesamo St.\");\nBut maybe, this is not the best approach for several reasons …\n\n\nApproach #2: all static-methods AccountManager\nIt may work as follows. In fact, if we want to manage accounts (as a banking-centered problem, not a person-centered one), it could be better that Account has Person:\n\n\n\n\n\nclassDiagram\n\nclass Person {\n  -name: String\n  -surname: String\n  -age: int\n}\n\nclass Account {\n  -accountNumber: String\n  -pin: int\n  -balance: double\n  -person: Person\n}\n\nAccount *-- Person\n\n\n\n\n\n\n\n\n\n\npublic class Account {\n  private Person person;\n  //other fields\n\n  public Account(Person person) {\n    this.person = person;\n  }\n\n  public Person getPerson() {\n    return this.person;\n  }\n\n  public void setPerson(Person person) {\n    this.person = person;\n    \n    //constructor, getters, setters and methods\n  }\n}\nSo, in this case, we could use a List object to save all the Account objects with the list:\nimport java.util.List;\nimport java.util.ArrayList;\n\npublic class AccountManager {\n  private List<Account> accounts;\n\n  private AccountManager() {\n    this.accounts = new ArrayList<>();\n  }\n\n  public List<Account> getAccounts() {\n    return this.accounts;\n  }\n\n  // we should manage how to add/remove accounts to/from accounts list\n\n  public static void deposit(Account account, double amount) {\n    // Code to deposit the specified amount to the account\n  }\n\n  public static void changePin(Account account, int newPin) {\n    // Code to change the PIN of the specified account\n  }\n\n  public static void transfer(Account fromAccount, Account toAccount, double amount) {\n    // Code to transfer the specified amount from the fromAccount to the toAccount\n  }\n  \n  public static void withdrawal(Account account, double amount) {\n    // Code to withdraw the specified amount from the given account\n  }\n}\n\n\nApproach 3: Singleton, any static-method\nIn this approach:\n\nAccount has Person\nAccountManager is Singleton and there is no static-methods anywhere\nand we create just one object form AccountManager to manage accounts\n\nimport java.util.List;\nimport java.util.ArrayList;\n\npublic class AccountManager {\n  private static AccountManager manager = new AccountManager();\n  private List<Account> accounts;\n\n  // we should manage how to add/remove accounts to/from accounts list\n\n  private AccountManager() {\n    this.accounts = new ArrayList<>();\n  }\n\n  public static AccountManager getInstance() {\n    return manager;\n  }\n\n  public List<Account> getAccounts() {\n    return this.accounts;\n  }\n\n  public  void deposit(Account account, double amount) {\n    // Code to deposit the specified amount to the account\n  }\n\n  public  void changePin(Account account, int newPin) {\n    // Code to change the PIN of the specified account\n  }\n\n  public  void transfer(Account fromAccount, Account toAccount, double amount) {\n    // Code to transfer the specified amount from the fromAccount to the toAccount\n  }\n  \n  public  void withdrawal(Account account, double amount) {\n    // Code to withdraw the specified amount from the given account\n  }\n}\n\n\nTest: AccountManagerTest\nAccountManagerTest could be like this:\n\nwith AccountManager all static-methods no-singleton\nAccount has Person\n\nimport org.junit.jupiter.api.Test;\nimport static org.junit.jupiter.api.Assertions.*;\n\npublic class AccountManagerTest {\n  @Test\n  public void testDeposit() {\n    Account account = new Account(new Person(\"John Doe\"));\n    double initialBalance = account.getBalance();\n    double depositAmount = 100.00;\n\n    AccountManager.deposit(account, depositAmount);\n    double finalBalance = account.getBalance();\n\n    assertEquals(initialBalance + depositAmount, finalBalance);\n  }\n\n  @Test\n  public void testChangePin() {\n    Account account = new Account(new Person(\"John Doe\"));\n    int initialPin = account.getPin();\n    int newPin = 1234;\n\n    AccountManager.changePin(account, newPin);\n    int finalPin = account.getPin();\n\n    assertEquals(newPin, finalPin);\n  }\n\n  @Test\n  public void testTransfer() {\n    Account fromAccount = new Account(new Person(\"John Doe\"));\n    Account toAccount = new Account(new Person(\"Jane Doe\"));\n    double initialFromAccountBalance = fromAccount.getBalance();\n    double initialToAccountBalance = toAccount.getBalance();\n    double transferAmount = 100.00;\n\n    AccountManager.transfer(fromAccount, toAccount, transferAmount);\n    double finalFromAccountBalance = fromAccount.getBalance();\n    double finalToAccountBalance = toAccount.getBalance();\n\n    assertEquals(initialFromAccountBalance - transferAmount, finalFromAccountBalance);\n    assertEquals(initialToAccountBalance + transferAmount, finalToAccountBalance);\n  }\n  \n  @Test\n  public void testWithdrawal() {\n    Account fromAccount = new Account(new Person(\"John Doe\"));\n    Account toAccount = new Account(new Person(\"Jane Doe\"));\n    double initialFromAccountBalance = fromAccount.getBalance();\n    double withdrawalAmount = 100.00;\n\n    AccountManager.withdrawal(fromAccount, withdrawalAmount);\n    double finalFromAccountBalance = fromAccount.getBalance();\n\n    assertEquals(initialFromAccountBalance - withdrawalAmount, finalFromAccountBalance);\n  }\n}"
+  },
+  {
+    "objectID": "javase/selab1-1.html#step-by-step",
+    "href": "javase/selab1-1.html#step-by-step",
+    "title": "Lab#SE01-1: Maven/Gradle Person and Account",
+    "section": "Step-by-step",
+    "text": "Step-by-step\n\nCreate Maven Project with JUnit\nCreate Person class\nCreate Account class\nTest Person and Account objects\nWrite operations (withdrawal, transfer,change pin) as a static methods in AccountManager\nTest Person and Account objects and features\nAdd singleton pattern to AccountManager class\nTest AccountManager class"
+  },
+  {
+    "objectID": "javase/selab4.html",
+    "href": "javase/selab4.html",
+    "title": "Lab 4: subject",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "javase/selab1-2.html",
+    "href": "javase/selab1-2.html",
+    "title": "Lab#SE01-2: Maven/Gradle Person and Account stored in JSON",
+    "section": "",
+    "text": "Create a Maven/Gradle Java SE Project with three classes and Junit to test objects and operations. From here you should add new features: factory pattern, JSON parser and save this JSON on local storage."
+  },
+  {
+    "objectID": "javase/selab1-2.html#solving-discussion",
+    "href": "javase/selab1-2.html#solving-discussion",
+    "title": "Lab#SE01-2: Maven/Gradle Person and Account stored in JSON",
+    "section": "Solving discussion",
+    "text": "Solving discussion\n\nBase Classes: factory\nHere is an example of how you could create a Lombok Java class for a Person and Account using the factory pattern:\nimport lombok.AllArgsConstructor;\nimport lombok.Data;\n\n@Data\n@AllArgsConstructor\npublic class Person {\n    private String firstName;\n    private String lastName;\n}\n\npublic interface Account {\n    void deposit(double amount);\n    void withdraw(double amount);\n}\n\n\npublic class SavingsAccount implements Account {\n    private double balance;\n\n    public SavingsAccount(double balance) {\n        this.balance = balance;\n    }\n\n    @Override\n    public void deposit(double amount) {\n        this.balance += amount;\n    }\n\n    @Override\n    public void withdraw(double amount) {\n        this.balance -= amount;\n    }\n}\n\npublic class CheckingAccount implements Account {\n    private double balance;\n\n    public CheckingAccount(double balance) {\n        this.balance = balance;\n    }\n\n    @Override\n    public void deposit(double amount) {\n        this.balance += amount;\n    }\n\n    @Override\n    public void withdraw(double amount) {\n        this.balance -= amount;\n    }\n}\n\npublic class AccountManager {\n    public static Account createAccount(String accountType, double balance) {\n        if (accountType.equalsIgnoreCase(\"savings\")) {\n            return new SavingsAccount(balance);\n        } else if (accountType.equalsIgnoreCase(\"checking\")) {\n            return new CheckingAccount(balance);\n        }\n        return null;\n    }\n}\nYou can then use these classes as follows:\nPerson john = new Person(\"John\", \"Doe\");\nAccount savingsAccount = AccountManager.createAccount(\"savings\", 100.00);\nAccount checkingAccount = AccountManager.createAccount(\"checking\", 50.00);\nThe AccountManager class uses the factory pattern to create Account objects based on the specified accountType. This allows you to create different types of accounts without having to specify the exact class to use, and makes it easier to add new types of accounts in the future.\n\n\nBase Classes: local storage-JSON\nHere is an example of what a Lombok-based Person class and Account class might look like in Java:\nimport lombok.Data;\n\n@Data\npublic class Person {\n  private String name;\n  private int age;\n  private String address;\n}\n\n@Data\npublic class Account {\n  private int accountNumber;\n  private double balance;\n  private Person owner;\n}\nThe @Data annotation is a **Lombok* annotation that automatically generates getters and setters for all non-static fields, as well as equals(), hashCode(), and toString() methods. This can help reduce boilerplate code and make your classes more concise and readable.\nTo save data to a local JSON file, you could use a JSON library like Jackson to convert the objects to JSON strings, and then write those strings to a file. Here is an example of how you might do that:\nimport com.fasterxml.jackson.core.JsonProcessingException;\nimport com.fasterxml.jackson.databind.ObjectMapper;\n\npublic class AccountManager {\n  private ObjectMapper objectMapper = new ObjectMapper();\n\n  public void saveAccount(Account account) throws JsonProcessingException {\n    String json = objectMapper.writeValueAsString(account);\n    // write the JSON string to a file\n  }\n}\nHow to save an object as a JSON string to a file on your local storage (in this case, c:/data/accounts.json) using Java SE:\nimport java.io.FileWriter;\nimport java.io.IOException;\n\nimport com.fasterxml.jackson.core.JsonProcessingException;\nimport com.fasterxml.jackson.databind.ObjectMapper;\n\npublic class AccountManager {\n  private ObjectMapper objectMapper = new ObjectMapper();\n\n  public void saveAccount(Account account) throws JsonProcessingException, IOException {\n    String json = objectMapper.writeValueAsString(account);\n\n    FileWriter fileWriter = new FileWriter(\"c:/data/accounts.json\");\n    fileWriter.write(json);\n    fileWriter.close();\n  }\n}"
+  },
+  {
+    "objectID": "javase/selab1-2.html#step-by-step",
+    "href": "javase/selab1-2.html#step-by-step",
+    "title": "Lab#SE01-2: Maven/Gradle Person and Account stored in JSON",
+    "section": "Step-by-step",
+    "text": "Step-by-step\n\nCreate interface Account\nCreate subclasses SavingsAccount and CheckingAccount\nCreate AccountManger\nCheck factory\nParse Account objects to String-JSON\nSave String on local .json file"
+  },
+  {
+    "objectID": "javase/selab3.html",
+    "href": "javase/selab3.html",
+    "title": "Lab#SE02-1: Movie/Review",
+    "section": "",
+    "text": "Tab ATab BTab C\n\n\nContent for Tab A Content for Tab A Content for Tab A Content for Tab A\n\n\nContent for Tab B Content for Tab B Content for Tab B Content for Tab B\n\n\nContent for Tab C Content for Tab C Content for Tab C Content for Tab C"
+  },
+  {
+    "objectID": "springboot/sblab4.html",
+    "href": "springboot/sblab4.html",
+    "title": "Lab 4: Spring Boot Projects JPA Inherence strategies",
+    "section": "",
+    "text": "Welcome to the cifojava2022-6 wiki!"
+  },
+  {
+    "objectID": "springboot/sblab4.html#entity-inhrence-jpa",
+    "href": "springboot/sblab4.html#entity-inhrence-jpa",
+    "title": "Lab 4: Spring Boot Projects JPA Inherence strategies",
+    "section": "(0) @Entity Inhrence JPA",
+    "text": "(0) @Entity Inhrence JPA\n\n\nJpaInherenceLibrary0\n\n\nBase project:\n\nPOM\n@Entity: Book (SuperClass), ItemBook, RareBook and Auhtor\nn:m : Book<> Auhtor\nDataBase H2: application.properties\nCommand Line Runner with methods to test\n@CrudRepository JPA 2.0, @Component (CommandLineRunner) and @Test (Jupiter)\n\nNew Topics\n\nHow to code inherence and JPA uses SINGLE_TABLE strategy by default\n  @Entity\n  public class Book {}\n\n\n  @Entity(name=\"BookItem\")\n  public class ItemBook extends Book {\n\n     @ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)\n     @JoinTable(name = \"AUTHOR_BOOK_JOIN_TABLE\",\n               joinColumns = { @JoinColumn(name = \"AUTHOR_FK\" )},\n               inverseJoinColumns = { @JoinColumn(name = \"BOOK_FK\" )})\n     private Set<Author>authors = new HashSet<Author>();\n  }\n\n\n  @Entity(name=\"RareItem\")\n  public class RareItem extends Book {}\n\n\n  @Entity(name=\"Author\")\n  @Table(name=\"AUTHOR_TABLE\")\n  public class Author {}\n\nVersions\n\nJpaInherenceLibrary v 1.1 : without @MappedSuperClass and @Entity superclass, Single Table strategy is applied BY DEFAULT"
+  },
+  {
+    "objectID": "springboot/sblab4.html#mappedsuperclass-inhrence-jpa",
+    "href": "springboot/sblab4.html#mappedsuperclass-inhrence-jpa",
+    "title": "Lab 4: Spring Boot Projects JPA Inherence strategies",
+    "section": "(1) MappedSuperclass Inhrence JPA",
+    "text": "(1) MappedSuperclass Inhrence JPA\n\n\nJpaInherenceLibrary1\n\n\nBase project:\n\nPOM\n@Entity: ItemBook, RareBook and Auhtor\nNon-@Entity: Book\nDataBase H2: application.properties\nCommand Line Runner with methods to test\n@CrudRepository JPA 2.0, @Component (CommandLineRunner) and @Test (Jupiter)\n\nNew Topics\n\nHow can not we code @MappedSuperclass and @ManyToMany author\n  @MappedSuperclass\n  public abstract class Book {}\n\n\n  @Entity(name=\"BookItem\")\n  @Table(name=\"ITEM_BOOK_TABLE\")\n  public class ItemBook extends Book {\n\n     @ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)\n     @JoinTable(name = \"AUTHOR_BOOK_JOIN_TABLE\",\n                 joinColumns = { @JoinColumn(name = \"AUTHOR_FK\" )},\n                 inverseJoinColumns = { @JoinColumn(name = \"BOOK_FK\" )})\n     private Set<Author>authors = new HashSet<Author>();\n  }\n\n\n  @Entity(name=\"RareItem\")\n  @Table(name=\"RARE_ITEM_TABLE\")\n  public class RareItem extends Book {}\n\n\n  @Entity(name=\"Author\")\n  @Table(name=\"AUTHOR_TABLE\")\n  public class Author {}\nWith @MappedSuperclass any relationship can’t be done\n\n\n\nWith @MappedSuperclass\n\n\nWith @MappedSuperclass, one SuperClass and two SubClasses:\n\n\n\nWith @MappedSuperclass\n\n\n\nVersions\n\nJpaInherenceLibrary1 v 1.0 : not using author just inherence without relatonship @ManyToMany"
+  },
+  {
+    "objectID": "springboot/sblab4.html#single-table-with-discriminator-inhrence-jpa",
+    "href": "springboot/sblab4.html#single-table-with-discriminator-inhrence-jpa",
+    "title": "Lab 4: Spring Boot Projects JPA Inherence strategies",
+    "section": "(2) Single Table with Discriminator Inhrence JPA",
+    "text": "(2) Single Table with Discriminator Inhrence JPA\n\n\nJpaInherenceLibrary2\n\n\nBase project:\n\nPOM\n@Entity: Book (SuperClass), ItemBook, RareBook and Auhtor\nn:m : Book<> Auhtor\nDataBase H2 : application.properties\nCommand Line Runner with methods to test\n@CrudRepository JPA 2.0, @Component (CommandLineRunner) and @Test (Jupiter)\n\nNew Topics\n\nHow to code @Inheritance(strategy = InheritanceType.SINGLE_TABLE)\n   @Entity\n   @Inheritance(strategy = InheritanceType.SINGLE_TABLE)\n   @DiscriminatorColumn(name=\"BOOK_TYPE\", \n         discriminatorType = DiscriminatorType.STRING)\n   public class Book {}\n\n\n  @Entity(name=\"BookItem\")\n  @Table(name=\"BOOK_ITEM_TABLE\")\n  @DiscriminatorValue(value= \"ITEMBOOK\")\n  public class BookItem extends Book {\n\n  @ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)\n  @JoinTable(name = \"AUTHOR_BOOK_JOIN_TABLE\",\n         joinColumns = { @JoinColumn(name = \"AUTHOR_FK\" )},\n         inverseJoinColumns = { @JoinColumn(name = \"BOOK_FK\" )})\n  private Set<Author>authors = new HashSet<Author>();}\n\n\n  @Entity(name=\"RareItem\")\n  @Table(name=\"RARE_ITEM_TABLE\")\n  @DiscriminatorValue(value= \"REAREBOOK\")\n  public class RareItem extends Book {}\n\n\n  @Entity(name=\"Author\")\n  @Table(name=\"AUTHOR_TABLE\")\n  public class Author {}\n\nWith @Inheritance and SINGLE_TABLE\n![@Inheritance ]( https://drive.google.com/uc?id=18nfiKnQaim4-lTD21iBwy313Daxtv73H)\n\nversion 1.1 : JpaInherenceLibrary2, SINGLE_TABLE strategy"
+  },
+  {
+    "objectID": "springboot/sblab4.html#joined-table-inhrence-jpa",
+    "href": "springboot/sblab4.html#joined-table-inhrence-jpa",
+    "title": "Lab 4: Spring Boot Projects JPA Inherence strategies",
+    "section": "(3) Joined Table Inhrence JPA",
+    "text": "(3) Joined Table Inhrence JPA\n\n\nJpaInherenceLibrary3\n\n\nBase project:\n\nPOM\n@Entity: Book (SuperClass), ItemBook, RareBook and Auhtor\nn:m : Book<> Auhtor\nDataBase H2 : application.properties\nCommand Line Runner with methods to test\n@CrudRepository JPA 2.0, @Component (CommandLineRunner) and @Test (Jupiter)\n\nNew Topics\n\nHow to code @Inheritance(strategy = InheritanceType.JOINED)\n  @Entity\n  @Table(name=\"BOOK_TABLE\")\n  @Inheritance(strategy = InheritanceType.JOINED)\n  @DiscriminatorColumn(name=\"BOOK_TYPE\",\n         discriminatorType = DiscriminatorType.STRING)\n  public class Book {}\n\n\n  @Entity(name=\"BookItem\")\n  @Table(name=\"BOOK_ITEM_TABLE\")\n  @PrimaryKeyJoinColumn(name = \"bookItemId\")\n  @DiscriminatorValue(value= \"ITEMBOOK\")\n  public class BookItem extends Book {\n\n  @ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)\n  @JoinTable(name = \"AUTHOR_BOOK_JOIN_TABLE\",\n         joinColumns = { @JoinColumn(name = \"AUTHOR_FK\" )},\n         inverseJoinColumns = { @JoinColumn(name = \"BOOK_FK\" )})\n  private Set<Author>authors = new HashSet<Author>();}\n\n\n  @Entity(name=\"RareItem\")\n  @Table(name=\"RARE_ITEM_TABLE\")\n  @PrimaryKeyJoinColumn(name = \"rareItemId\")\n  @DiscriminatorValue(value= \"RAREBOOK\")\n  public class RareItem extends Book {}\n\n\n  @Entity(name=\"Author\")\n  @Table(name=\"AUTHOR_TABLE\")\n  public class Author {}\n\nWith @Inheritance and JOINED\n![@Inheritance JOINED](https://drive.google.com/uc?id=1BpxaW7fV_kh4PyFWn3i49nG4SqnKYpAE)\n\nverison 1.1 : JpaInherenceLibrary3"
+  },
+  {
+    "objectID": "springboot/sblab4.html#table-per-class-inhrence-jpa",
+    "href": "springboot/sblab4.html#table-per-class-inhrence-jpa",
+    "title": "Lab 4: Spring Boot Projects JPA Inherence strategies",
+    "section": "(4) Table per class Inhrence JPA",
+    "text": "(4) Table per class Inhrence JPA\n\n\nJpaInherenceLibrary4\n\n\nBase project:\n\nPOM\n@Entity: Book (SuperClass), ItemBook, RareBook and Auhtor\nn:m : Book<> Auhtor\nDataBase H2 : application.properties\nCommand Line Runner with methods to test\n@CrudRepository JPA 2.0, @Component (CommandLineRunner) and @Test (Jupiter)\n\nNew Topics\n\nHow to code @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)\n  @Entity\n  @Table(name=\"BOOK_TABLE\")\n  @Inheritance(strategy = InheritanceType.TABLE_PER_CLASS)\n  public class Book {}\n\n\n  @Entity(name=\"BookItem\")\n  @Table(name=\"BOOK_ITEM_TABLE\")\n  public class BookItem extends Book {\n\n  @ManyToMany(cascade = CascadeType.ALL, fetch = FetchType.EAGER)\n  @JoinTable(name = \"AUTHOR_BOOK_JOIN_TABLE\",\n       joinColumns = { @JoinColumn(name = \"AUTHOR_FK\" )},\n       inverseJoinColumns = { @JoinColumn(name = \"BOOK_FK\" )})\n  private Set<Author>authors = new HashSet<Author>();}\n\n\n  @Entity(name=\"RareItem\")\n  @Table(name=\"RARE_ITEM_TABLE\")\n  public class RareItem extends Book {}\n\n\n  @Entity(name=\"Author\")\n  @Table(name=\"AUTHOR_TABLE\")\n  public class Author {}\n\nWith @Inheritance and TABLE_PER_CLASS\n\n\n\n\n@Inheritance TABLE PER CLASS\n\n\nversion 1.1 : JpaInherenceLibrary4"
+  },
+  {
+    "objectID": "springboot/sblab4.html#basic-spring-boot-project",
+    "href": "springboot/sblab4.html#basic-spring-boot-project",
+    "title": "Lab 4: Spring Boot Projects JPA Inherence strategies",
+    "section": "(0) Basic Spring Boot project",
+    "text": "(0) Basic Spring Boot project\n\n\nUniversal Planes\n\n\nPreliminary works:\n\nCreate project on Spring Init\n\nversion 1.0 : spring boot executions"
+  },
+  {
+    "objectID": "springboot/sblab2.html",
+    "href": "springboot/sblab2.html",
+    "title": "Lab 2: Spring Boot Projects",
+    "section": "",
+    "text": "Welcome to the cifojava2022-3 wiki!"
+  },
+  {
+    "objectID": "springboot/sblab2.html#basic-spring-boot-project",
+    "href": "springboot/sblab2.html#basic-spring-boot-project",
+    "title": "Lab 2: Spring Boot Projects",
+    "section": "(0) Basic Spring Boot project",
+    "text": "(0) Basic Spring Boot project\n\n\nLibrary0\n\n\nPreliminary works:\n\nCreate project on Spring Init\nImages, step-by-step to create project\nLombok to make entities simplier\nJava-Faker to create entities\nBe careful with devtools!! You must go to settings and mark it, CTRL+ALT+S    on Advanced Settings: Allow Auto-make\nVery simple project: no database, @BookService with an ArrayList<Book> books where books are stored\n@RestController and @Controller to publish JSON data and an HTML web with Thymeleaf\n\nversion 1.0 : spring boot executions, api REST and web\nversion 2.0 : just some little modifications to explain what th: is"
+  },
+  {
+    "objectID": "springboot/sblab2.html#api-rest-book-crud-with-postmanswagger",
+    "href": "springboot/sblab2.html#api-rest-book-crud-with-postmanswagger",
+    "title": "Lab 2: Spring Boot Projects",
+    "section": "(1) API Rest Book CRUD with Postman/Swagger",
+    "text": "(1) API Rest Book CRUD with Postman/Swagger\n\n\nLibrary1\n\n\nBase project:\n\nPOM\nAPI REST Read CRUD\nDataBase H2\nApplication.properties\nCommand Line Runner with methods to test\nPostman to test API REST, Postman web\n@Entity, @RestController, @Service, @CrudRepository JPA 2.0, @Component\n\n\nLibrary1 / Repo"
+  },
+  {
+    "objectID": "springboot/sblab2.html#api-rest-author-book-onetomany-crud-with-swagger",
+    "href": "springboot/sblab2.html#api-rest-author-book-onetomany-crud-with-swagger",
+    "title": "Lab 2: Spring Boot Projects",
+    "section": "(2) API Rest Author-Book @OneToMany CRUD with Swagger",
+    "text": "(2) API Rest Author-Book @OneToMany CRUD with Swagger\n\n\nLibrary2\n\n\nBase project:\n\nLibrary1\nTwo entities related @OneToMany, that is, 1:n\n\n\nLibrary2 / Repo"
+  },
+  {
+    "objectID": "springboot/sblab2.html#library-book-manytomany-and-onetoone-crud",
+    "href": "springboot/sblab2.html#library-book-manytomany-and-onetoone-crud",
+    "title": "Lab 2: Spring Boot Projects",
+    "section": "(3) Library-Book @ManyToMany and @OneToOne CRUD",
+    "text": "(3) Library-Book @ManyToMany and @OneToOne CRUD\n\n\nLibrary3\n\n\nBase project:\n\nLibrary2\nTwo/Three entities related @ManyToMany, that is, n:m and @OneToOne 1:1\n\n\nLibrary3 / Repo"
+  },
+  {
+    "objectID": "springboot/sblab2.html#api-rest-library-book-author-manytomany-onetomany-crud-with-swagger-and-inherence",
+    "href": "springboot/sblab2.html#api-rest-library-book-author-manytomany-onetomany-crud-with-swagger-and-inherence",
+    "title": "Lab 2: Spring Boot Projects",
+    "section": "(4) API Rest Library-Book-Author @ManyToMany @OneToMany CRUD with Swagger and Inherence",
+    "text": "(4) API Rest Library-Book-Author @ManyToMany @OneToMany CRUD with Swagger and Inherence\n\n\nLibrary4\n\n\nBase project:\n\nLibrary2 and Library3\nInherence and Interficies\nAudit and JavaFaker\nJPQL\n\nBatch operations and Pagination"
+  },
+  {
+    "objectID": "springboot/sblab2.html#thymeleaf-web-project",
+    "href": "springboot/sblab2.html#thymeleaf-web-project",
+    "title": "Lab 2: Spring Boot Projects",
+    "section": "(5) ThymeLeaf Web Project",
+    "text": "(5) ThymeLeaf Web Project\n\n\nLibrary5\n\n\nBase project:\n\nLibrary\nTemplates HTML Thymeleaf, Templates Engine\n@Controller instead of @RestController"
+  },
+  {
+    "objectID": "springboot/sblab2.html#pagination-thymeleaf-rest-web-project",
+    "href": "springboot/sblab2.html#pagination-thymeleaf-rest-web-project",
+    "title": "Lab 2: Spring Boot Projects",
+    "section": "(6) Pagination ThymeLeaf-Rest Web Project",
+    "text": "(6) Pagination ThymeLeaf-Rest Web Project\n\n\nLibrary6\n\n\nBase project:\n\nLibrary\nTemplates HTML Thymeleaf, Templates Engine\n@RestController\nPagination and Sorting"
+  },
+  {
+    "objectID": "springboot/sblab1.html",
+    "href": "springboot/sblab1.html",
+    "title": "Lab 1: Spring Boot Projects",
+    "section": "",
+    "text": "Welcome to the cifojava2022-4 wiki!"
+  },
+  {
+    "objectID": "springboot/sblab1.html#what-is-h2-database",
+    "href": "springboot/sblab1.html#what-is-h2-database",
+    "title": "Lab 1: Spring Boot Projects",
+    "section": "What is H2 Database",
+    "text": "What is H2 Database\nH2 is pure Java SQL database, which means you can embed H2 directly in your Java applications without any database installation.\n\nVery fast, open source, JDBC API compatible.\nYou can use H2 in different modes, depending on your need:in-memory, embedded or client/server.\nH2 provides a browser-based console application which you can use to access SQL database.\nLightweight: about 2.5MB jar file size. With such features, H2 can be used for rapid prototype development,testing purpose or embedded in Java applications.\n\nH2 Java DataBase"
+  },
+  {
+    "objectID": "springboot/sblab1.html#java-jdbc",
+    "href": "springboot/sblab1.html#java-jdbc",
+    "title": "Lab 1: Spring Boot Projects",
+    "section": "(1) Java JDBC",
+    "text": "(1) Java JDBC\n\ndemoMavenH2\nJava™ database connectivity (JDBC) is the JavaSoft specification of a standard application programming interface (API) that allows Java programs to access database management systems. The JDBC API consists of a set of interfaces and classes written in the Java programming language.\nUsing these standard interfaces and classes, programmers can write applications that connect to databases, send queries written in structured query language (SQL), and process the results.\nSince JDBC is a standard specification, one Java program that uses the JDBC API can connect to any database management system (DBMS), as long as a driver exists for that particular DBMS.\nProject repo"
+  },
+  {
+    "objectID": "springboot/sblab1.html#entity-manager-api",
+    "href": "springboot/sblab1.html#entity-manager-api",
+    "title": "Lab 1: Spring Boot Projects",
+    "section": "(2) Entity Manager API",
+    "text": "(2) Entity Manager API\n\ntest-hibernate-jpa\nJava Persistence API is a Java Specification and Standard for Object Relational Mapping (ORM). In Object Relational Mapping we create Java Objects which represents the database entities. ORM also provides an EntityManager which provides methods to create, delete, update and find the objects from database.\nWe don’t need to write low level queries, we just need to use entity manager and access the entities through java objects.\nProject repo"
+  },
+  {
+    "objectID": "springboot/sblab1.html#jpa-data-spring-boot",
+    "href": "springboot/sblab1.html#jpa-data-spring-boot",
+    "title": "Lab 1: Spring Boot Projects",
+    "section": "(3) JPA Data Spring Boot",
+    "text": "(3) JPA Data Spring Boot\n\nlibraryH2Command\nProject repo\nBase project:\n\nPOM\nDataBase H2\nApplication.Properties\nCommand Line Runner with methods to test\n@Entity Book\n@BookService Read and Create operations\n@BookRepository JPA 2.0"
+  },
+  {
+    "objectID": "springboot/sblab5.html",
+    "href": "springboot/sblab5.html",
+    "title": "Lab 5: subject",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "springboot/sblab3.html",
+    "href": "springboot/sblab3.html",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "",
+    "text": "Welcome to the cifojava2022-5 wiki!"
+  },
+  {
+    "objectID": "springboot/sblab3.html#s-6c-thymeleaf-web-project-resttemplate-data-from-api-rest",
+    "href": "springboot/sblab3.html#s-6c-thymeleaf-web-project-resttemplate-data-from-api-rest",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "(6S-6C) ThymeLeaf Web Project RestTemplate (data from API Rest)",
+    "text": "(6S-6C) ThymeLeaf Web Project RestTemplate (data from API Rest)\n\n\nLibrary6\n\n\nBase project:\n\nLibrary1 > Library6server\nlibrary5 > library6server\nTemplates html Thymeleaf\n@Controller and @RestController\n@Service: RestTemplate"
+  },
+  {
+    "objectID": "springboot/sblab3.html#websockets-spring-boot-project-with-js-web-client-sockjs-stomp",
+    "href": "springboot/sblab3.html#websockets-spring-boot-project-with-js-web-client-sockjs-stomp",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "(8) Websockets Spring Boot Project with JS Web-Client SockJS & Stomp",
+    "text": "(8) Websockets Spring Boot Project with JS Web-Client SockJS & Stomp\n\n\nLibrary8\n\n\nBase project:\n\nLibrary3\nWebSocket\nSTOMP Web-Client JS"
+  },
+  {
+    "objectID": "springboot/sblab3.html#graphql-spring-boot-project-with-playground",
+    "href": "springboot/sblab3.html#graphql-spring-boot-project-with-playground",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "(9) GraphQL Spring Boot Project with PlayGround",
+    "text": "(9) GraphQL Spring Boot Project with PlayGround\n\n\nLibrary9\n\n\nBase project:\n\nLibrary3\nGraphQL"
+  },
+  {
+    "objectID": "springboot/sblab3.html#axios-js-spa-web-spring-boot-project",
+    "href": "springboot/sblab3.html#axios-js-spa-web-spring-boot-project",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "(10) Axios JS SPA Web Spring Boot Project",
+    "text": "(10) Axios JS SPA Web Spring Boot Project\n\n\nLibrary10\n\n\nBase project:\n\nLibrary5\nAxios JS\nSPA"
+  },
+  {
+    "objectID": "springboot/sblab3.html#spring-boot-project-with-api-rest-mongodb",
+    "href": "springboot/sblab3.html#spring-boot-project-with-api-rest-mongodb",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "(7) Spring Boot Project with API Rest MongoDB",
+    "text": "(7) Spring Boot Project with API Rest MongoDB\n\n\nLibrary7\n\n\nBase project:\n\nLibrary3\nMongoCrud\n@RestController"
+  },
+  {
+    "objectID": "springboot/sblab3.html#spring-boot-server-dynamodb-aws",
+    "href": "springboot/sblab3.html#spring-boot-server-dynamodb-aws",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "(12) Spring Boot Server DynamoDB AWS",
+    "text": "(12) Spring Boot Server DynamoDB AWS\n\n\nLibrary12\n\n\nBase project:\n\nLibrary5\nCloud DynamoDB AWS"
+  },
+  {
+    "objectID": "springboot/sblab3.html#web-spring-boot-project-webflux",
+    "href": "springboot/sblab3.html#web-spring-boot-project-webflux",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "(13-14) Web Spring Boot Project WebFlux",
+    "text": "(13-14) Web Spring Boot Project WebFlux\n\n\nLibrary13-14\n\n\nBase project:\n\nLibrary5\nWebFlux"
+  },
+  {
+    "objectID": "springboot/sblab3.html#web-spring-boot-project-thyemleaf-security",
+    "href": "springboot/sblab3.html#web-spring-boot-project-thyemleaf-security",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "(11) Web Spring Boot Project Thyemleaf-Security",
+    "text": "(11) Web Spring Boot Project Thyemleaf-Security\n\n\nLibrary11\n\n\nBase project:\n\nLibrary5\nSecurity"
+  },
+  {
+    "objectID": "springboot/sblab3.html#webflux-project-video-streaming",
+    "href": "springboot/sblab3.html#webflux-project-video-streaming",
+    "title": "Lab 3: Spring Boot Projects",
+    "section": "(15) WebFlux Project Video Streaming",
+    "text": "(15) WebFlux Project Video Streaming\n\n\nLibrary15\n\n\nBase project:\n\nLibrary5\nVideo Streaming"
   }
 ]
