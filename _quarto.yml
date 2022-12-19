@@ -1,0 +1,107 @@
+project:
+  type: website
+
+website:
+  title: "Labs carla"
+  cookie-consent:
+    type: express
+    style: headline
+    palette: dark
+
+  navbar:
+    background: dark
+    style: "floating"
+    search: true
+
+    right:
+      - text: Home
+        file: index.qmd
+      - sidebar:markup
+      - sidebar:javase
+      - sidebar:spring   
+      - sidebar:reactjs
+      - sidebar:devops
+
+  sidebar:
+    - id: "devops"
+      title: "DevOps"
+      border: true
+      collapse-level: 1
+      background: none
+      style: "floating"
+      contents:
+        - text: "DevOps"
+        - text: "---"  
+        - section: "DevOps Laboratories"
+          contents: 
+            - devops/devops-lab-chatapp.qmd
+            - devops/devops-lab-springbooksintro.qmd
+            - devops/devops-lab-springbookss3.qmd
+            - devops/devops-lab-springbooksdocker.qmd
+            - devops/devops-lab-k8sdigitalocean.qmd
+
+    - id: "markup"
+      title: "MarkUp"
+      contents: 
+        - text: "MarkUp Languages and Styling"
+        - text: "---"   
+        - section: "MarkUp Languages Laboratories"
+          contents: 
+            - markup/mulab1.qmd
+
+    - id: "javase"
+      title: "Java SE"
+      contents: 
+        - text: "Java Standard Edition"
+        - text: "---"  
+        - section: "Java SE Laboratories"
+          contents: 
+            - javase/selab1-1.qmd
+            - javase/selab1-2.qmd
+            - javase/selab3.qmd
+            - javase/selab4.qmd
+            - javase/selab5.qmd
+
+    - id: "spring"
+      title: "Spring"
+      contents:
+        - text: "Spring"
+        - text: "---"  
+        - section: "Spring Boot Laboratories"
+          contents: 
+            - springboot/sblab1.qmd
+            - springboot/sblab2.qmd
+            - springboot/sblab3.qmd
+            - springboot/sblab4.qmd
+            - springboot/sblab5.qmd
+
+    - id: "reactjs"
+      title: "React JS"
+      contents: 
+        - text: "React JS"
+        - text: "---"  
+        - section: "React JS Laboratories"
+          contents: 
+            - reactjs/rjslab1.qmd
+            - reactjs/rjslab2.qmd
+            - reactjs/rjslab3.qmd
+            - reactjs/rjslab4.qmd
+            - reactjs/rjslab5.qmd
+       
+format:
+  html:
+    fontsize:  "1.0em"
+    theme:
+      light: default
+      dark: superhero
+    css: styles.css
+    toc: true
+    toc-depth: 5
+    email-obfuscation: javascript
+    
+execute:
+  cache: true
+  freeze: true
+
+
+
