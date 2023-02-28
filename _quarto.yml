@@ -1,0 +1,47 @@
+project:
+  type: website
+
+website:
+  title: Carla Velasco
+  repo-url: https://github.com/Albertprofe/wiki
+  repo-actions: [edit, issue]
+
+  navbar:
+    background: dark
+    style: "floating"
+    search: true
+    
+    right:
+      - text: Home
+        file: index.qmd
+      - sidebar:markup
+
+  sidebar:
+    - id: "markup"
+      title: "MarkUp"
+      contents: 
+        - text: "MarkUp Languages and Styling"
+        - text: "---"   
+        - section: "MarkUp Languages Laboratories"
+          contents: 
+            - markup/UF01-1841.qmd
+            - markup/UF01-1842.qmd
+     
+format:
+  html:
+    fontsize:  "1.0em"
+    theme:
+      light: default
+      dark: superhero
+    css: styles.css
+    toc: true
+    toc-depth: 5
+    email-obfuscation: javascript
+    
+execute:
+  cache: true
+  freeze: true
+
+
+
+
