@@ -1,0 +1,22 @@
+---
+title: "UF01-1844. Observable JS"
+---
+
+
+## Quarto Markdown: Observable JS
+
+Exemple de Observable JS.  Aquí teniu la url de l’enunciat:
+
+Observable JS example. Here is the URL for the assignment:
+
+[UF01-1844. Observable JS](https://quarto.org/docs/websites/website-listings.html)
+
+
+## Observable JS Example
+``` {ojs}
+height = 250
+numbers = Float64Array.from({length: 1000}, d3.randomNormal())
+import {chart as histogram} with {numbers as data, height} from "@d3/histogram@261"
+
+histogram
+```

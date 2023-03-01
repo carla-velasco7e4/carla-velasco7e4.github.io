@@ -108,6 +108,7 @@ classDiagram
 :::
 
 ::: {.callout-important}
+            - markup/UF01-1843.qmd
     This callout is a important-callout, it gives important information to the user.
 :::
 
@@ -127,8 +128,10 @@ You can see it on the top of the page.
 
 ### Article Layout
 
-:::{.column-page}
-![](https://media.licdn.com/dms/image/C4E05AQEjhCissU9S0Q/videocover-low/0/1660133214280?e=2147483647&v=beta&t=b2BcCAj4W1QBiJX-CMWblTe5TXiyLQJqtKvTFBTsDrg)
+::: {.column-margin}
+
+![Random cat image](https://cataas.com/cat?width=1800)
+
 :::
 
 

@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@observablehq/runtime": "^5.4.3",
+    "@observablehq/stdlib": "^5.4.3"
+  }
+}
