@@ -1,0 +1,17 @@
+---
+title: "UF01-1843. Document Listings"
+listing: default
+---
+
+
+## Quarto Markdown: basics
+
+Exemple de listings.  Aquí teniu la url de l’enunciat:
+
+Listings example. Here is the URL for the assignment:
+
+[UF01-1843. Document Listings](https://quarto.org/docs/websites/website-listings.html)
+
+
+## My Listing Example
+
